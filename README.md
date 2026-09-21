@@ -85,7 +85,7 @@ python health_checker.py --config targets.json --output report.json
 === IT SUPPORT HEALTH CHECK ===
 Host: DESKTOP-EXAMPLE
 OS: Windows 11
-Disk: 64.2% used (OK)
+Disk: 59.2% used (OK)
 
 Connectivity:
 - Cloudflare DNS: DNS=ok, TCP=reachable
@@ -108,3 +108,4 @@ Report saved to: health_report.json
 ## Portfolio context
 
 This project is part of my continued development toward cloud support, automation, and security-focused IT roles.
+
