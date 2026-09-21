@@ -105,6 +105,9 @@ Report saved to: health_report.json
 - Add automated tests
 - Add a PowerShell version for comparison
 
+## What I learned
+This project helped me practise Python functions, dictionaries, JSON handling, command-line arguments, exception handling, DNS resolution, TCP connectivity testing, and file output.
+
 ## Portfolio context
 
 This project is part of my continued development toward cloud support, automation, and security-focused IT roles.
