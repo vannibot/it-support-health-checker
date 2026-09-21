@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+health_report.json
+.venv/
+venv/
+.env

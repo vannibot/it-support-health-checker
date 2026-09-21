@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cloudflare DNS",
+    "host": "1.1.1.1",
+    "port": 53
+  },
+  {
+    "name": "GitHub HTTPS",
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "name": "Microsoft Login",
+    "host": "login.microsoftonline.com",
+    "port": 443
+  }
+]
